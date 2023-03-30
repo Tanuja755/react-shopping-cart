@@ -1,0 +1,54 @@
+#cart-container{
+	height:200px;
+	width:500px;
+	border:1px solid red;
+	background-color:brown;
+	border-radius:5px;
+	box-shadow:0px 0px 10px black;
+}
+
+.products{
+	height:100px;
+	width:100%;
+	border:1px solid darked;
+	background-color:white;
+}
+
+.left{
+	width:70%;
+	height:inherit;
+	border:1px solid black;
+	float:left;
+}
+
+.right{
+	width:29%;
+	height:inherit;
+	border:1px solid black;
+	float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
